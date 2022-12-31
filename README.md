@@ -3,7 +3,7 @@
 - 👨‍💻 I'm currently having 2+ years of IT experience as Oracle PL/SQL Developer. I'm having expertise on developing Stored Procedures, PL/SQL Packages and functions along with building efficient complex queries.
 - 🔭 I’m currently working on Data Engineering Projects and related Courses.
 - 🌱 I’m currently learning Big Data Engineering tools
-      - Apache Spark (For Processing and Transformation of Data)
+-           Apache Spark (For Processing and Transformation of Data)
       - Distributed Computing (Core Concept in Big Data Field)
       - Apache Hive (A Data Warehouse Tool for Hadoop Environment)
       - Apache Sqoop (A Tool used for transferring of data between Relational Databases and Hadoop and vice-versa)
